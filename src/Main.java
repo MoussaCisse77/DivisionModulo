@@ -22,7 +22,7 @@ public class Main {
         System.out.println("Division de a par b : " + division);
         System.out.println("Modulo de a par b : " + modulo);
 
-        // Fermer le scanner
+        // Fermer le scanner de
         scanner.close();
     }
 }
