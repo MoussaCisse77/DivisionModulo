@@ -8,7 +8,7 @@ public class Main {
         // Demander à l'utilisateur de saisir les deux entiers
         System.out.print("Entrez l'entier a : ");
         int a = scanner.nextInt();
-
+//il y a un petit problème votre entier b doit etre different de 0
         System.out.print("Entrez l'entier b : ");
         int b = scanner.nextInt();
 
