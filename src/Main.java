@@ -8,7 +8,7 @@ public class Main {
         // Demander à l'utilisateur de saisir les deux entiers
         System.out.print("Entrez l'entier a : ");
         int a = scanner.nextInt();
-
+//il y a un petit problème votre entier b doit etre different de 0
         System.out.print("Entrez l'entier b : ");
         int b = scanner.nextInt();
 
@@ -22,7 +22,7 @@ public class Main {
         System.out.println("Division de a par b : " + division);
         System.out.println("Modulo de a par b : " + modulo);
 
-        // Fermer le scanner
+        // Fermer le scanner de
         scanner.close();
     }
 }
